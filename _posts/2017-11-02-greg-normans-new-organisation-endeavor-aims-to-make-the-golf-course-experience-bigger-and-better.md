@@ -1,6 +1,6 @@
 ---
 ID: 81660011
-post_title: 'Greg Norman&#8217;s new organisation endeavor aims to make the golf course experience bigger and better'
+post_title: 'Greg Norman&#8217;s new organization endeavor aims to make the golf course experience bigger and better'
 author: admin
 post_excerpt: ""
 layout: post
