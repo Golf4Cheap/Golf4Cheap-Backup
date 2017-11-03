@@ -1,12 +1,12 @@
 ---
-ID: 41
+ID: 81660214
 post_title: My Bookings
-author: admin
+author: Golf4Cheap
 post_excerpt: ""
 layout: page
 permalink: >
-  https://golf4cheap.com/events/my-bookings/
+  https://golf4cheap.com/events-2/my-bookings/
 published: true
-post_date: 2017-09-27 19:36:06
+post_date: 2016-09-28 13:14:15
 ---
 CONTENTS
