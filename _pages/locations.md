@@ -1,11 +1,12 @@
 ---
-ID: 38
+ID: 81660211
 post_title: Locations
-author: admin
+author: Golf4Cheap
 post_excerpt: ""
 layout: page
-permalink: https://golf4cheap.com/events/locations/
+permalink: >
+  https://golf4cheap.com/events-2/locations/
 published: true
-post_date: 2017-09-27 19:36:05
+post_date: 2016-09-28 13:14:15
 ---
 CONTENTS
