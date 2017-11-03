@@ -1,12 +1,12 @@
 ---
-ID: 39
+ID: 81660212
 post_title: Categories
-author: admin
+author: Golf4Cheap
 post_excerpt: ""
 layout: page
 permalink: >
-  https://golf4cheap.com/events/categories/
+  https://golf4cheap.com/events-2/categories/
 published: true
-post_date: 2017-09-27 19:36:05
+post_date: 2016-09-28 13:14:15
 ---
 CONTENTS
